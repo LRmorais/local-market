@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "local-market",
+    "slug": "local-market",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
